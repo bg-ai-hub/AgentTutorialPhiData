@@ -1,0 +1,9 @@
+phidata
+groq
+yfinance
+openai
+duckduckgo-search
+sqlalchemy
+fastapi
+python-multipart
+uvicorn
